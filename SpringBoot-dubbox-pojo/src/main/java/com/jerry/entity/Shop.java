@@ -27,6 +27,9 @@ public class Shop extends Model<Shop> {
     private Integer typeId;
     //商品价格
     private Integer shopPrice;
+
+    private  String shi;
+
     //商品描述
     private String shopDescription;
 
